@@ -19,13 +19,13 @@
 #	
 #	Ant 任务：
 #	
-#	maven-package ( 打包 )
+#	--package ( 打包 )
 #	
-#	maven-clean   ( 清除 )
+#	--clean   ( 清除 )
 #	
-#	maven-idea    ( 生成 idea 项目 )
+#	--idea    ( 生成 idea 项目 )
 #	
-#	maven-eclipse ( 生成 eclipse 项目 )
+#	--eclipse ( 生成 eclipse 项目 )
 #	
 #	demo 项目地址：https://github.com/fancores/json-demo
 #	
